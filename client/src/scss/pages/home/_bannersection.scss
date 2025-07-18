@@ -1,0 +1,46 @@
+.banner {
+    font-family: "Kumbh Sans", sans-serif;
+    background: var(--Dark-08, #141414);
+    padding: 80px 80px;
+
+    h1 {
+        align-self: stretch;
+        color: var(--Absolute-White, #FFF);
+        font-family: "Kumbh Sans";
+        font-size: 55px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 130%;
+        letter-spacing: -1.65px;
+
+    }
+
+    .text {
+        display: flex;
+        align-items: center;
+        gap: 60px;
+        align-self: stretch;
+        flex-wrap: wrap;
+
+        h2 {
+            color: var(--Absolute-White, #FFF);
+            font-family: "Kumbh Sans";
+            font-size: 55px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 130%;
+            letter-spacing: -1.65px;
+        }
+
+        p {
+            flex: 1 0 0;
+            color: var(--Grey-60, #98989A);
+            font-family: Inter;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 150%; /* 24px */
+            letter-spacing: -0.48px;
+        }
+    }
+}
