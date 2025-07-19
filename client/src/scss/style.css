@@ -180,6 +180,8 @@ header nav ul .news {
   border-radius: 6px;
   border: 1px solid var(--Dark-20, #333);
   background: var(--Dark-08, #141414);
+}
+header nav ul .news a {
   color: var(--Absolute-White, #FFF);
   font-family: Inter;
   font-size: 14px;

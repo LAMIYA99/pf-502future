@@ -50,12 +50,14 @@ header {
                 border-radius: 6px;
                 border: 1px solid var(--Dark-20, #333);
                 background: var(--Dark-08, #141414);
+            a{
                 color: var(--Absolute-White, #FFF);
                 font-family: Inter;
                 font-size: 14px;
                 font-style: normal;
                 font-weight: 500;
                 line-height: 150%;
+            }
 
             }
         }
